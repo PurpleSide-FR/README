@@ -18,4 +18,5 @@
 <br>
 
 ![discord badge](https://img.shields.io/discord/819852637490249738?color=7289DA&label=discord)
+![patreon badge](https://img.shields.io/discord/819852637490249738?color=7289DA&label=patreon)
 
