@@ -17,5 +17,5 @@
 
 <br>
 
-![discord badge](https://img.shields.io/discord/819852637490249738?color=7289DA&label=discord) [![fa-patreon](https://cloud.githubusercontent.com/assets/4129466/26701143/8d8ae420-46e5-11e7-82a9-2eec753db363.png)](https://www.patreon.com/purpleside)  
+![discord badge](https://img.shields.io/discord/819852637490249738?color=7289DA&label=discord)
 
