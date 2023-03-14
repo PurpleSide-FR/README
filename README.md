@@ -1,21 +1,19 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+!;Welcome+To+PurpleSide...;A+French+Roleplay+Server+!&center=true&size=30&color=#9370DB">
-  </a>
-</h1>
+<h1 align="center">PurpleSide</h1>
 
-<br>
+<div align="center">
+	<a href="https://discord.gg/purpleside">Home</a>
+  <span> • </span>
+    	<a href="https://discord.gg/purpleside">Install</a>
+  <span> • </span>
+	<a href="https://discord.gg/purpleside">Support</a>
+  <span> • </span>
+        <a href="https://discord.gg/purpleside">Discord</a>
+  <p></p>
+</div> 
 
-```
-                         ▄▄▄·▄• ▄▌▄▄▄   ▄▄▄·▄▄▌  ▄▄▄ .    .▄▄ · ▪  ·▄▄▄▄  ▄▄▄ .
-                        ▐█ ▄██▪██▌▀▄ █·▐█ ▄███•  ▀▄.▀·    ▐█ ▀. ██ ██▪ ██ ▀▄.▀·
-                         ██▀·█▌▐█▌▐▀▀▄  ██▀·██▪  ▐▀▀▪▄    ▄▀▀▀█▄▐█·▐█· ▐█▌▐▀▀▪▄
-                        ▐█▪·•▐█▄█▌▐█•█▌▐█▪·•▐█▌▐▌▐█▄▄▌    ▐█▄▪▐█▐█▌██. ██ ▐█▄▄▌
-                        .▀    ▀▀▀ .▀  ▀.▀   .▀▀▀  ▀▀▀      ▀▀▀▀ ▀▀▀▀▀▀▀▀•  ▀▀▀ 
-                                   D S C . G G / P U R P L E S I D E
-```
-
-<br>
+<p align="center">
+  <img alt="PurpleSide Development" src="https://repobeats.axiom.co/api/embed/596867a4717039fa6fc2a59e1e0635d545ad702d.svg">
+</p>
 
 ![discord badge](https://img.shields.io/discord/819852637490249738?color=7289DA&label=discord)
 
