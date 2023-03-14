@@ -3,10 +3,6 @@
 <div align="center">
 	<a href="https://discord.gg/purpleside">Home</a>
   <span> • </span>
-    	<a href="https://discord.gg/purpleside">Install</a>
-  <span> • </span>
-	<a href="https://discord.gg/purpleside">Support</a>
-  <span> • </span>
         <a href="https://discord.gg/purpleside">Discord</a>
   <p></p>
 </div> 
